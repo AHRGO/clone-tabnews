@@ -1,27 +1,27 @@
 function Home() {
    return <h1>
-      As vezes eu sinto pesar\n
-      Por não conseguir admitir que,\n
-      Sem ter você do meu lado, com certeza eu iria vacilar.\n
-      \n\n
-      Mas você esteve aqui,\n
-      todo dia me nutrindo, me ajudando a sentir\n
-      Que eu sou especial sim\n
-      \n\n
-      E então você se levantou e me ensinou a sorrir\n
-      E eu percebi como é belo e sereno\n
-      Estar do seu lado, sempre pleno\n
-      E no meio da tempestade, não desistir\n
-      \n\n
-      Aiai meu bem, como me sinto aterreno\n
-      Vendo seu olhar angelical\n
-      Sentindo seu amor sobrenatural\n
-      Vejo cada dia mais, pelo o quê estou vivendo\n
-      \n\n
-      Sua energia me dá paz surreal\n
-      Todo o seu amor e carinho\n
-      Que me impedem de ficar sozinho\n
-      Fomos feitos um para o outro afinal\n
+      As vezes eu sinto pesar<br />
+      Por não conseguir admitir que,<br />
+      Sem ter você do meu lado, com certeza eu iria vacilar.<br />
+      <br /><br />
+      Mas você esteve aqui,<br />
+      todo dia me nutrindo, me ajudando a sentir<br />
+      Que eu sou especial sim<br />
+      <br /><br />
+      E então você se levantou e me ensinou a sorrir<br />
+      E eu percebi como é belo e sereno<br />
+      Estar do seu lado, sempre pleno<br />
+      E no meio da tempestade, não desistir<br />
+      <br /><br />
+      Aiai meu bem, como me sinto aterreno<br />
+      Vendo seu olhar angelical<br />
+      Sentindo seu amor sobrenatural<br />
+      Vejo cada dia mais, pelo o quê estou vivendo<br />
+      <br /><br />
+      Sua energia me dá paz surreal<br />
+      Todo o seu amor e carinho<br />
+      Que me impedem de ficar sozinho<br />
+      Fomos feitos um para o outro afinal<br />
       </h1>
 }
 
