@@ -1,35 +1,59 @@
 function Home() {
-   return <h1>
-      As vezes eu sinto pesar<br />
-      Por não conseguir admitir que,<br />
-      Sem ter você do meu lado, com certeza eu iria vacilar.<br />
-      <br /><br />
-      Mas você esteve aqui,<br />
-      todo dia me nutrindo, me ajudando a sentir<br />
-      Que eu sou especial sim<br />
-      <br /><br />
-      E então você se levantou e me ensinou a sorrir<br />
-      E eu percebi como é belo e sereno<br />
-      Estar do seu lado, sempre pleno<br />
-      E no meio da tempestade, não desistir<br />
-      <br /><br />
-      Aiai meu bem, como me sinto aterreno<br />
-      Vendo seu olhar angelical<br />
-      Sentindo seu amor sobrenatural<br />
-      Vejo cada dia mais, pelo o quê estou vivendo<br />
-      <br /><br />
-      Sua energia me dá paz surreal<br />
-      Todo o seu amor e carinho<br />
-      Que me impedem de ficar sozinho<br />
-      Fomos feitos um para o outro afinal<br />
-      <br /><br />
+  return (
+    <h1>
+      As vezes eu sinto pesar
+      <br />
+      Por não conseguir admitir que,
+      <br />
+      Sem ter você do meu lado, com certeza eu iria vacilar.
+      <br />
+      <br />
+      <br />
+      Mas você esteve aqui,
+      <br />
+      todo dia me nutrindo, me ajudando a sentir
+      <br />
+      Que eu sou especial sim
+      <br />
+      <br />
+      <br />
+      E então você se levantou e me ensinou a sorrir
+      <br />
+      E eu percebi como é belo e sereno
+      <br />
+      Estar do seu lado, sempre pleno
+      <br />
+      E no meio da tempestade, não desistir
+      <br />
+      <br />
+      <br />
+      Aiai meu bem, como me sinto aterreno
+      <br />
+      Vendo seu olhar angelical
+      <br />
+      Sentindo seu amor sobrenatural
+      <br />
+      Vejo cada dia mais, pelo o quê estou vivendo
+      <br />
+      <br />
+      <br />
+      Sua energia me dá paz surreal
+      <br />
+      Todo o seu amor e carinho
+      <br />
+      Que me impedem de ficar sozinho
+      <br />
+      Fomos feitos um para o outro afinal
+      <br />
+      <br />
+      <br />
       Você é meu pedacinho do céu <br />
       Me traz paz e deixa cada dia mais feliz <br />
       Meu amor, meu amorzinho <br />
       Nunca achei que em mim, <br />
       Pudesse brotar tanto carinho <br />
       Mas é, assim você o fez <br />
-      E fico cada dia mais admirado  <br />
+      E fico cada dia mais admirado <br />
       Com o quanto você me faz sorrir <br />
       E cada hora ao seu lado <br />
       Me faz querer sempre evoluir <br />
@@ -56,7 +80,8 @@ function Home() {
       Procuro tudo pra poder <br />
       Teu bem estar satisfazer <br />
       E sua felicidade comprazer. <br />
-      </h1>
+    </h1>
+  );
 }
 
 export default Home;
