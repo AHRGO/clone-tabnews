@@ -1,8 +1,11 @@
 import Poema from "./components/Poema";
+import BannerInicial from "./components/BannerInicial";
 
 function Home() {
   return (
-    <Poema/>
+    <BannerInicial/>
+    // <Poema/>
+
   );
 
 }
