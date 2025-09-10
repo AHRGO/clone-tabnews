@@ -1,7 +1,10 @@
 import Poema from "./components/Poema";
 
 function Home() {
-<Poema/>
+  return (
+    <Poema/>
+  );
+
 }
 
 export default Home;
