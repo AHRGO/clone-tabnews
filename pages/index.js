@@ -1,3 +1,5 @@
+import Poema from "./components/Poema";
+
 function Home() {
 <Poema/>
 }
