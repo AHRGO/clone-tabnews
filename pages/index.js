@@ -4,8 +4,8 @@ import Rostinho from "./components/Rostinho";
 
 function Home() {
   return (
-    <Rostinho />
-    // <BannerInicial/>
+    // <Rostinho />
+    <BannerInicial/>
     // <Poema/>
 
   );
