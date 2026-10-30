@@ -12,3 +12,16 @@ test("5 + 3 deveria retornar 8", () => {
 
     expect(resultado).toBe(8);
 })
+
+test("Espero que X + 5 dê erro", () => {
+    const result = calculadora.somar('X', 5);
+
+    expect(result).toBe("Erro");
+})
+
+test("Espero que 3 * 5 seja 15", () => {
+    const result = calculadora.multiplicar(3, 5)
+
+    expect(result).toBe(15);
+});
+
